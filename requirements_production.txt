@@ -1,0 +1,3 @@
+arcgis==1.8.*
+knackpy==1.0.*
+requests==2.24.*
